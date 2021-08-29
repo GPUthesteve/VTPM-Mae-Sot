@@ -1,0 +1,59 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.0.4193295597)
+
+newmtl $Material_0
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd gp_asphalt-light.dds
+
+newmtl $Material_1
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd gp_concrete.dds
+
+newmtl $Material_2
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd gp_linebase.dds
+
+newmtl $Material_3
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd gp_patternedlines_40f.dds
+
+newmtl $Material_4
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd gp_white_20f.dds
+
+newmtl $Material_5
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd vtpmgp_ea04a.dds
+
+newmtl $Material_6
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd vtpmoverlay.dds
+

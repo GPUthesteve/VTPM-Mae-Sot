@@ -10,3 +10,6 @@ Remake AFCAD? Airport Design Editor here https://www.scruffyducksoftware.com/sho
 
 
 Download...Check out release tags
+
+
+Every release is built on FSX so it will be compatible all the way up to P34v4...maybe V5 also, need testers 'bout that

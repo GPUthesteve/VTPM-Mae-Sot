@@ -13,3 +13,22 @@ Download...Check out release tags
 
 
 Every release is built on FSX so it will be compatible all the way up to P34v4...maybe V5 also, need testers 'bout that
+
+TH
+มาพูดถึงเรื่องทางเทคนิคกันดีกว่า........จะ Compile ใหม่หรอ ใช้ ModelConverterX สิ : https://www.scenerydesign.org/development-releases/ มันถามหา SDK หรอ? หาให้มันครับ
+-ผมใช้ FSX/P3Dv1.4 SDK : http://cloud.prepar3d.com/SDK/Prepar3D_SDK_1.4.4747.0.exe (โหลดตรงจาก LM)(ใช้ทำสนามบินแบบ FSX)(P3Dv1.4 อันนี้ใกล้เคียงกับ FSX SDK ที่สุดแล้ว ใช้ร่วมกันได้ ตอนนี้ FSX SDK หายาก ไม่ก็ต้องลง FSX SP2 ยุ่งยาก ในขณะที่ P3Dv1.4 ลงเปล่าๆเหมือน P3D SDK ทั่วๆไป)
+ข้อดีของการใช้ FSX-native modeling (ตัด c-gauge ออกไปก่อนนะ)
+-ใช้ได้ยาว ลากได้ตั้งแต่ FSX  จนถึง P3Dv5 กันเลยทีเดียว ไม่ว่าจะเป็นตีวเครื่อง หรือสนามบิน
+ข้อเสีย..
+-Dynamic Light  มันพึ่งมาใน P3Dv4.....
+-PBR ก็พึ่งมาใน P3Dv4(.5)
+
+หรือจะไปใช้ Compiler/SDK ของ P3D ใหม่ๆเลยก็ได้ ไม่ว่ากัน 
+ไฟล์หลักสนามบิน : ICAO_ADEX_ADE.AD4
+ใช้กับ Airport Design Editor X https://www.scruffyducksoftware.com/shop-and-downloads ผมใช้รุ่น 1.79 (ของเล่นใหม่เยอะมาก ต่างจาก 1.78 พอสมควร)
+
+วิธีโหลดสนาม : คลิกที่ Release Tags เลยครับ แล้วโหลดไฟล์ zip ที่ไม่ใช่ Source
+
+
+-GPU *aka jjthesteve001*
+

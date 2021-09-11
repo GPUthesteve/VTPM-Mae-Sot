@@ -14,7 +14,7 @@ Download...Check out release tags
 
 Every release is built on FSX so it will be compatible all the way up to P34v4...maybe V5 also, need testers 'bout that
 
-TH
+TH.............
 มาพูดถึงเรื่องทางเทคนิคกันดีกว่า........จะ Compile ใหม่หรอ ใช้ ModelConverterX สิ : https://www.scenerydesign.org/development-releases/ มันถามหา SDK หรอ? หาให้มันครับ
 -ผมใช้ FSX/P3Dv1.4 SDK : http://cloud.prepar3d.com/SDK/Prepar3D_SDK_1.4.4747.0.exe (โหลดตรงจาก LM)(ใช้ทำสนามบินแบบ FSX)(P3Dv1.4 อันนี้ใกล้เคียงกับ FSX SDK ที่สุดแล้ว ใช้ร่วมกันได้ ตอนนี้ FSX SDK หายาก ไม่ก็ต้องลง FSX SP2 ยุ่งยาก ในขณะที่ P3Dv1.4 ลงเปล่าๆเหมือน P3D SDK ทั่วๆไป)
 ข้อดีของการใช้ FSX-native modeling (ตัด c-gauge ออกไปก่อนนะ)

@@ -27,8 +27,8 @@ TH.............
 ไฟล์หลักสนามบิน : ICAO_ADEX_ADE.AD4
 ใช้กับ Airport Design Editor X https://www.scruffyducksoftware.com/shop-and-downloads ผมใช้รุ่น 1.79 (ของเล่นใหม่เยอะมาก ต่างจาก 1.78 พอสมควร)
 
-วิธีโหลดสนาม : คลิกที่ Release Tags เลยครับ แล้วโหลดไฟล์ zip ที่ไม่ใช่ Source
-..https://github.com/GPUthesteve/VTPM-Mae-Sot-Intl.-Airport/tags..
+วิธีโหลดสนาม :
+..https://github.com/GPUthesteve/VTPM-Mae-Sot-Intl.-Airport/releases..
 
 
 -GPU *aka jjthesteve001*

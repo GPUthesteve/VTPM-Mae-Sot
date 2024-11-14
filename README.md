@@ -1,7 +1,7 @@
 # VTPM-Mae-Sot
 
 -Completed-
-![2024-11-4_15-48-5-573](https://github.com/user-attachments/assets/cc0868a4-05fe-4723-a01f-fcdf654b84c9)
+![2024-11-4_15-48-21-124](https://github.com/user-attachments/assets/ae855386-0888-4791-ac57-1e450ef4458c)
 
 just fork this tbh im lazy
 

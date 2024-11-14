@@ -1,4 +1,8 @@
 # VTPM-Mae-Sot
+
+-Completed-
+
+
 just fork this tbh im lazy
 
 Mae Sot Airport (Thai: ท่าอากาศยานแม่สอด) (IATA: MAQ, ICAO: VTPM) is an international airport serving Mae Sot, a town in Tak Province in Thailand.
